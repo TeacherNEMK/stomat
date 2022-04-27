@@ -9,7 +9,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background: url(../img/bg1.jpg);
+  background-color: blue;
   background-size: cover;
 }
 
